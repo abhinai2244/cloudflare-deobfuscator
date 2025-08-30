@@ -3,7 +3,7 @@
 This project deobfuscates Cloudflare-protected JavaScript challenges.  
 It extracts hidden strings, replaces obfuscated calls, and generates a readable version of the script.
 
-![Project Logo](image.png)
+![Project Logo](image1.png)
 
 ---
 
